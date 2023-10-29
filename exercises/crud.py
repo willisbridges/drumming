@@ -19,5 +19,3 @@ def get_exercise(exercise_id: int):
         if exercise.id == exercise_id:
             return exercise
     return None
-
-

@@ -8,6 +8,3 @@ class ExerciseCreate(BaseModel):
 
 class Exercise(ExerciseCreate):
     id: int
-
-
-
